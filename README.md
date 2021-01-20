@@ -4,7 +4,7 @@ Enumerates all of the COM Objects & their exposed methods on your local machine,
 Pulls all of the subkeys from HKLM\Software\Classes registry key, then instantiates the associated COM object by CLSID & enumerates available methods
 
 ## Usage
-To use this script, clone this repo to your local system, then `Import-Module .\Get-COMData
+To use this script, clone this repo to your local system, then `Import-Module .\Get-COMData`
 
 To run:
 ```
