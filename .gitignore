@@ -1,0 +1,8 @@
+
+# Ignore all text files
+*.txt
+
+# Ignore exe
+*.exe
+*.sys
+*.dll
